@@ -18,8 +18,6 @@
 - removed useless login/signUp.
 - Added local database.
 
-**note:- This is latest version(v1.0.1) of app. you can go to lower version(1.0.0) by changing branch to main**.
-
 ## App Information
 
 Here,i created this app with [Spoonacular open source food api](https://spoonacular.com/food-api/) and firebase to save recipes. In starting of the app add Auth screen and for keep user login i used shared_preferences plugin.
@@ -55,20 +53,3 @@ Here,i created this app with [Spoonacular open source food api](https://spoonacu
 
 </p>
 
-## How to use
-
-To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
-
-```
-# Clone this repository
-$ git clone https://github.com/alielbanna/Recipe-App.git
-
-# Go into the repository
-$ cd Recipe-App
-
-# Install dependencies
-$ flutter packages get
-
-# Run the app
-$ flutter run
-```
